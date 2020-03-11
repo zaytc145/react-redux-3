@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin:0;
+}
+#card-box{
+    width:166px; 
+}
+
+#card-img{
+    height:250px;
+}
+
+@media only screen and (max-width: 1200px){
+    #card-box{
+        width:202px;
+    }
+    #card-img{
+        height:311px;
+    }
+} 
+
+@media only screen and (max-width: 1023px){
+    #card-box{
+        width:207px;
+    }
+    #card-img{
+        height:315px;
+    }
+}  
+
+@media only screen and (max-width: 767px){
+    #card-box{
+        width:217px;
+    }
+    #card-img{
+        height:313px;
+    }
+    input, textarea, select {
+        font-size: 16px;
+    }
+} 
+
+@media only screen and (max-width: 480px){
+    input{
+        font-size: 100px;
+    }
+
+    #card-box{
+        width:100%;
+    }
+    #card-img{
+        height:400px;
+    }
+} 
+
+
+
+
+

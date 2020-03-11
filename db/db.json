@@ -1,0 +1,44 @@
+{
+  "favouriteList": [
+    {
+      "title": "Ookami Kodomo no Ame to Yuki",
+      "img": "https://cdn.myanimelist.net/images/anime/9/35721.jpg?s=3cb7f7062c2ef1c69ab18d7e3c04af2b",
+      "id": 12355
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "img": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=faffcb677a5eacd17bf761edd78bfb3f",
+      "id": 5114
+    },
+    {
+      "title": "Steins;Gate",
+      "img": "https://cdn.myanimelist.net/images/anime/5/73199.jpg?s=97b97d568f25a02cf5a22dda13b5371f",
+      "id": 9253
+    },
+    {
+      "title": "Hunter x Hunter (2011)",
+      "img": "https://cdn.myanimelist.net/images/anime/11/33657.jpg?s=5724d8c22ae7a1dad72d8f4229ef803f",
+      "id": 11061
+    },
+    {
+      "title": "Kimi no Na wa.",
+      "img": "https://cdn.myanimelist.net/images/anime/5/87048.jpg?s=2bca128fcb9dfd6d0908f3d9986576c6",
+      "id": 32281
+    },
+    {
+      "title": "Shingeki no Kyojin Season 3 Part 2",
+      "img": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg?s=4540a01b5883647ade494cd28392f100",
+      "id": 38524
+    },
+    {
+      "title": "3-gatsu no Lion 2nd Season",
+      "img": "https://cdn.myanimelist.net/images/anime/3/88469.jpg?s=becfbf556902bc3501e06a07354b9d76",
+      "id": 35180
+    },
+    {
+      "title": "Koe no Katachi",
+      "img": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg?s=56d2750d600af93a5d326daec7748cae",
+      "id": 28851
+    }
+  ]
+}
